@@ -27,7 +27,7 @@ Clone the repository to your local machine using the following command:
 git clone https://github.com/your-username/order-management-app.git
 ```
 
-### Step 2: Step 2: Install Dependencies
+### Step 2: Install Dependencies
 
 Navigate into the project directory and install the project dependencies by running:
 
